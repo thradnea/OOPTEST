@@ -1,2 +1,3 @@
 "Pirma versija" 
 "Antra versija" 
+"Nauja saka pridejo si teksta" 
